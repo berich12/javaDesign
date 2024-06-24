@@ -1,0 +1,4 @@
+.my-button {
+    -fx-background-color: #4caf50; /* Green */
+    -fx-text-fill: white;
+}
